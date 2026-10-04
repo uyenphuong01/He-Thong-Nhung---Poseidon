@@ -1,0 +1,19 @@
+# ESP-IDF build output
+build/
+
+# ESP-IDF managed components
+managed_components/
+
+# VS Code
+.vscode/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Generated files
+sdkconfig.old
+
+# OS files
+.DS_Store
+Thumbs.db
